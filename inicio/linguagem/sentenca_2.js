@@ -1,0 +1,1 @@
+console.log(1 + 3); //Pode usar " Aspas duplas, ' Aspas simples, Sem Aspas
