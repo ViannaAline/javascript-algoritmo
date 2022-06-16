@@ -15,3 +15,4 @@ console.log(a < b); // menor
 console.log(a <= b); // menor ou igal
 console.log(a == b); // igual
 console.log(a != b); // diferente 
+

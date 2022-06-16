@@ -10,3 +10,4 @@ console.log(a != b);
 console.log(a !== b); // estritamente diferente
 console.log(b !== c); // estritamente diferente
 
+
