@@ -12,3 +12,6 @@ numeros.push(10.98);
 
 console.log(numeros);
 console.log(numeros.length); // atributo para determinar quantidade de elementos dentro do array.
+
+let y = [];
+console.log(Array.isArray(y)); // identificador de array
